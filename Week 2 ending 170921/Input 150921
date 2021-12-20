@@ -1,0 +1,10 @@
+#PersonsName = input('Enter your Name: ')
+#print('hi',PersonsName, 'What are you doing today')
+#FavSubject = input ('Enter your favourite subject: ')
+#print('hello', PersonsName, 'youlike', FavSubject)
+#StartingFund= float( input('Enter your starting fund: '))
+#Wages= float(input('How much did you get paid this week: '))
+#EndOfWeek= StartingFund + Wages
+#print ('Your fund at the end of the week is',EndOfWeek)
+PersonsName= input('Enter your name: ')
+print('hi',PersonsName, 'What age are you?')
